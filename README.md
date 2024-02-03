@@ -10,8 +10,8 @@ java -jar platform.jar [options]
 
 ### Options
 
-**-s** - Return as string
-**-c** - Return as exit code (0 = Windows, 1 = Linux, 2 = Mac, 3 = Other)
+- **-s** - Return as string
+- **-c** - Return as exit code (0 = Windows, 1 = Linux, 2 = Mac, 3 = Other)
 
 ## Examples
 
