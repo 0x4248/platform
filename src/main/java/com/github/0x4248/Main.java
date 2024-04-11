@@ -1,12 +1,12 @@
 /**
  * Platform
  * A CLI to get the platform of your system in Java.
- * GitHub: https://www.github.com/lewisevans2007/Platform
+ * GitHub: https://www.github.com/0x4248/Platform
  * Licence: GNU General Public License v3.0
- * By: Lewis Evans
+ * By: 0x4248
  */
 
-package com.github.lewisevans2007;
+package com.github.0x4248;
 
 public class Main {
     public static String getPlatform(){
